@@ -6,7 +6,9 @@
   "directories": {
     "doc": "docs"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.9.5"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
